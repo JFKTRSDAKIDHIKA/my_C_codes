@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\CPP\\projectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BF23CD-C9F4-4C44-9732-FCF643C300FF}|ProjectTest\\ProjectTest.vcxproj|D:\\Repository\\CPP\\GameOfLife\\imageloader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BF23CD-C9F4-4C44-9732-FCF643C300FF}|ProjectTest\\ProjectTest.vcxproj|D:\\Repository\\CPP\\GameOfLife\\imageloadertester.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BF23CD-C9F4-4C44-9732-FCF643C300FF}|ProjectTest\\ProjectTest.vcxproj|D:\\Repository\\CPP\\GameOfLife\\gameoflife.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imageloadertester.c",
+              "DocumentMoniker": "D:\\Repository\\CPP\\GameOfLife\\imageloadertester.c",
+              "RelativeDocumentMoniker": "..\\GameOfLife\\imageloadertester.c",
+              "ToolTip": "D:\\Repository\\CPP\\GameOfLife\\imageloadertester.c",
+              "RelativeToolTip": "..\\GameOfLife\\imageloadertester.c",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-03T17:54:24.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gameoflife.c",
+              "DocumentMoniker": "D:\\Repository\\CPP\\GameOfLife\\gameoflife.c",
+              "RelativeDocumentMoniker": "..\\GameOfLife\\gameoflife.c",
+              "ToolTip": "D:\\Repository\\CPP\\GameOfLife\\gameoflife.c",
+              "RelativeToolTip": "..\\GameOfLife\\gameoflife.c",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-03T17:53:55.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imageloader.c",
+              "DocumentMoniker": "D:\\Repository\\CPP\\GameOfLife\\imageloader.c",
+              "RelativeDocumentMoniker": "..\\GameOfLife\\imageloader.c",
+              "ToolTip": "D:\\Repository\\CPP\\GameOfLife\\imageloader.c",
+              "RelativeToolTip": "..\\GameOfLife\\imageloader.c",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-03T17:52:59.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\CPP\\TreeReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDB4141-B5B7-4439-8FE9-9E01A54EEF98}|TreeReview\\TreeReview.vcxproj|D:\\Repository\\CPP\\TreeReview\\TreeReview\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EDB4141-B5B7-4439-8FE9-9E01A54EEF98}|TreeReview\\TreeReview.vcxproj|solutionrelative:TreeReview\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Repository\\CPP\\TreeReview\\TreeReview\\main.cpp",
+              "RelativeDocumentMoniker": "TreeReview\\main.cpp",
+              "ToolTip": "D:\\Repository\\CPP\\TreeReview\\TreeReview\\main.cpp",
+              "RelativeToolTip": "TreeReview\\main.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAAA5wEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T12:00:55.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

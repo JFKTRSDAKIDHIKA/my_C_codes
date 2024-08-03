@@ -1,0 +1,4 @@
+﻿  imageloadertester.c
+steganography.obj : error LNK2005: main 已经在 gameoflife.obj 中定义
+imageloader.obj : error LNK2019: 无法解析的外部符号 fscanfs，函数 readData 中引用了该符号
+D:\Repository\CPP\ProjectTest\ProjectTest\x64\Debug\ProjectTest.exe : fatal error LNK1120: 1 个无法解析的外部命令
